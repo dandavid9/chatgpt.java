@@ -1,0 +1,5 @@
+src/main/resources/token
+.project
+.settings
+.classpath
+target
