@@ -18,7 +18,7 @@ public class Main {
 		req.setFrequencyPenalty(0.5f);
 		req.setPresencePenalty(0.5f);
 		req.setStop(new String[] {"AI:"});
-		
+				
 		ObjectMapper mapper = new ObjectMapper();
 		String jsonPayload = null;
 		try {
