@@ -19,8 +19,6 @@ public class Main {
 		
 		System.out.println(greeting);
 		
-		System.out.println(config.get("myCustomKey"));
-		
 		OpenAiRequest req = new OpenAiRequest();
 		req.setModel("text-davinci-003");
 		req.setPrompt("You are and AI\nAI:");
