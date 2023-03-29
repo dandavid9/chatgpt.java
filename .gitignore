@@ -1,5 +1,6 @@
 # secret
 src/main/resources/token
+application.properties
 
 # eclipse
 .project
