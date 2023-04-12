@@ -1,5 +1,11 @@
+# secret
 src/main/resources/token
+application.properties
+
+# eclipse
 .project
 .settings
 .classpath
+
+# maven
 target
